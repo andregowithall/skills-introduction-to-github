@@ -74,3 +74,4 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 
 </footer>
 This is my first GitHub project!
+This one im gonna make the video content like dankoe who is the youtuber
